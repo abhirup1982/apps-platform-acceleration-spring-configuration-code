@@ -1,0 +1,5 @@
+billing:
+  endpoint: "http://billing"
+security:
+  basic:
+    enabled: false
